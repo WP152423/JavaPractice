@@ -32,7 +32,7 @@ public class IdolGroup {
 				System.out.println(memberName[i][j]);
 				
 			}
-			System.out.println("\n");
+			System.out.println();
 		}
 
 	}
